@@ -60,5 +60,7 @@
         "process_name": ["winvnc.exe", 
                          "vncviewer.exe",
                          "winvncsc.exe"]
+    "Screenconnect": {
+        "process_name: [ScreenConnect.ClientService.exe]       
     }
 }
