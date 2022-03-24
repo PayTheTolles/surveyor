@@ -3,6 +3,9 @@
         "process_name": ["aa_v*.exe"],
         "domain": ["ammyy.com"]
     },
+    "AnyDesk": { 
+        "process_name": ["AnyDesk.exe"]
+    },
     "GoToMyPC": { 
         "process_name": ["g2comm.exe",
                          "g2fileh.exe",
@@ -38,6 +41,11 @@
     },
     "PCAnywhere Server": { 
         "process_name": ["awhost32.exe"]
+    },
+    "ScreenConnect": { 
+        "process_name": ["ScreenConnect.ClientService.exe",
+                         "*ScreenConnect*",
+                         "*ConnectWise*"]
     },
     "ShowMyPC": { 
         "process_name": ["smpcsetup.exe",
